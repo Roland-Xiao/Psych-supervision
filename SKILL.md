@@ -254,10 +254,10 @@ python scripts/risk_assessment.py --client A001
 
 ## Author
 
-Author: Raload-Xiao | Dev-Psychiater  
+Author: Roland-Xiao | Dev-Psychiater  
 AI-assisted development: Claude Code  
 First release on GitHub: 2026  
 
-© 2026 Raload-Xiao  
+© 2026 Roland-Xiao  
 This project was originally created by the author.  
 Please keep attribution when redistributing or modifying.
