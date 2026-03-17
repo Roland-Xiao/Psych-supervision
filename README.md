@@ -4,7 +4,7 @@
 
 An AI skill built on an integrative supervision framework, designed to support psychotherapists with multi-level clinical supervision across the full range of clinical practice.
 
-> Created by Raload-Xiao | Dev-Psychiater  
+> Created by Roland-Xiao | Dev-Psychiater  
 ---
 
 
@@ -194,10 +194,10 @@ Therapists who use this skill bear full responsibility for their own clinical de
 
 ## Author
 
-Author: Raload-Xiao | Dev-Psychiater  
+Author: Roland-Xiao | Dev-Psychiater  
 AI-assisted development: Claude Code  
 First release on GitHub: 2026  
 
-© 2026 Raload-Xiao  
+© 2026 Roland-Xiao  
 This project was originally created by the author.  
 Please keep attribution when redistributing or modifying.
