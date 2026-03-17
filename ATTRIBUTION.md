@@ -1,7 +1,7 @@
 # Attribution & Intellectual Property
 
 Creator:
-- Roland‑Xiao (Dev‑Psychiater) — First release 2026
+- Roland‑Xiao (Dev‑Psychiater) — First release on github：2026
 
 License:
 - This project is licensed under the MIT License. See the LICENSE file for full text.
